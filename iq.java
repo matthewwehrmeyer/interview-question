@@ -1,9 +1,9 @@
 import java.util.Scanner;
 /**
- * Write a description of class Num3 here.
+ * Take two words and compare them to how they are different with edits.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Matthew Wehrmeyer
+ * @v1.0
  */
 public class Num3
 {
