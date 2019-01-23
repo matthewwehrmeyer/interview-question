@@ -1,28 +1,11 @@
 import java.util.Scanner;
-/**
- * Take two words and compare them to how they are different with edits.
- *
- * @Matthew Wehrmeyer
- * @v1.0
- */
+
 public class Num3
 {
-    // instance variables - replace the example below with your own
-    
-    /**
-     * Constructor for objects of class Num3
-     */
     public Num3()
     {
         
     }
-
-    /**
-     * 
-     *
-     * 
-     * 
-     */
     public void com(String word1, String word2)
     {
         String outcome;
